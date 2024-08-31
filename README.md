@@ -17,6 +17,8 @@ Key Insights: Our analysis revealed several key insights, including:
 Regional Sales Trends: We identified significant variations in sales patterns across different regions, highlighting opportunities for targeted marketing campaigns.
 Product Category Performance: Our analysis showed that certain product categories outperformed others, indicating potential areas for investment and growth.
 Seasonal Demand Fluctuations: We detected seasonal fluctuations in demand, enabling the development of strategies to mitigate stockouts and overstocking.
+
+
 Conclusion: The DataSpark project demonstrated the power of data analytics in the global electronics industry. By applying a range of skills, including data cleaning, EDA, SQL, and data visualization, we uncovered valuable insights that can inform business decisions and drive growth.
 
 
